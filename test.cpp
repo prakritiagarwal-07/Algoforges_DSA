@@ -1,5 +1,5 @@
 #include <iostream>
-#include <oci.h>
+#include<oci.h>
 #include <cstring> // Fixed: provides strlen
 
 int main() {
